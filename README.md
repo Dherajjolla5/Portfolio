@@ -6,7 +6,7 @@ This is the source code for my personal portfolio website, built to showcase my 
 
 ## 🚀 Tech Stack
 
-- **Frontend:** React.js , Nextjs , Talwind CSS
+- **Frontend:** React.js , Nextjs
 - **Styling:** Tailwind CSS
 - **Icons:** [Lucide React / Heroicons / FontAwesome]
 - **Deployment:** [Vercel / Netlify / GitHub Pages]
