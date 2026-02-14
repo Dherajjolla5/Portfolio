@@ -1,27 +1,29 @@
 # Portfolio Website
 
+I help businesses establish a strong online presence by building modern, fast, and reliable websites.
+
 This is the source code for my personal portfolio website, built to showcase my projects, skills, and experience.
 
 ## 🚀 Tech Stack
 
-* **Frontend:** React.js
-* **Styling:** Tailwind CSS
-* **Icons:** [Lucide React / Heroicons / FontAwesome]
-* **Deployment:** [Vercel / Netlify / GitHub Pages]
+- **Frontend:** React.js
+- **Styling:** Tailwind CSS
+- **Icons:** [Lucide React / Heroicons / FontAwesome]
+- **Deployment:** [Vercel / Netlify / GitHub Pages]
 
 ## 🎨 Features
 
-* **Responsive Design:** Fully adaptive UI for mobile, tablet, and desktop (using Tailwind's utility classes).
-* **Project Showcase:** Dynamic grid display of personal projects and contributions.
-* **About Section:** Professional summary and skills overview.
-* **Contact Integration:** [EmailJS / Formspree / Direct Mailto link].
-* **Custom Favicon:** SVG-based branding.
+- **Responsive Design:** Fully adaptive UI for mobile, tablet, and desktop (using Tailwind's utility classes).
+- **Project Showcase:** Dynamic grid display of personal projects and contributions.
+- **About Section:** Professional summary and skills overview.
+- **Contact Integration:** [EmailJS / Formspree / Direct Mailto link].
+- **Custom Favicon:** SVG-based branding.
 
 ## 🛠️ Installation & Setup
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/your-username/portfolio-website.git](https://github.com/your-username/portfolio-website.git)
+    git clone https://github.com/your-username/portfolio-website.git
     cd portfolio-website
     ```
 
@@ -55,3 +57,4 @@ This is the source code for my personal portfolio website, built to showcase my 
   └── index.css      # Tailwind directives and global styles
 /public
   └── favicon.svg    # Custom SVG favicon
+```
