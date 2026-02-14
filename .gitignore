@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 node_modules/
 .next/
 out/
@@ -58,3 +59,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+=======
+node_modules
+.next
+.env
+.env.local
+dist
+>>>>>>> 75043c9fcc82871ff823243acd4be4d2df79bfbf
