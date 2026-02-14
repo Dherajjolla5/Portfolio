@@ -118,7 +118,7 @@ const experiences = [
     date: "2026 - Present",
     location: "South Africa (Remote)",
     description:
-      "Leading the technical division of the Institution's Innovation Council. Spearheading the development of the official committee website from scratch using modern web technologies. Managing a team of developers to digitize event registrations and innovation showcases.",
+      "Working remotely as a Solo Developer, I lead the technical development of the institution’s Innovation Council website from scratch. Utilizing React.js, Next.js, and AI-powered tools, I design and implement modern web solutions. I also manage digital workflows for event registrations and innovation showcases, ensuring seamless user experiences.",
     skills: ["React.js", "Next.js", "UI/UX Architecture", "Web Performance"],
   },
   {
@@ -127,25 +127,25 @@ const experiences = [
     date: "2025",
     location: "Karachi pakistan (Remote)",
     description:
-      "Directing the digital strategy and web infrastructure for the consulting group. Developing a content-heavy platform to display case studies, student consultant portfolios, and industry analysis reports.",
+      "Worked as a Senior Developer, leading the development of CRM systems, CMS platforms, and custom websites. Mentored junior developers, guiding them on automation and new technologies. Acted as the primary point of contact on Slack for client updates, providing progress reports and ensuring smooth communication with managers. Delivered content-heavy platforms showcasing case studies, student portfolios, and industry analysis reports.",
     skills: ["CRM", "CMS", "UI/UX Architecture", "Web Performance" , "Custom website development"],
   },
   {
     title: "Senior Developer In B2B Department",
-    company: "ABtech Solutions",
+    company: "ABTACH Ltd",
     date: "2023",
     location: "Karachi pakistan",
     description:
-      "Architected and deployed a comprehensive portfolio website for an interior design studio. Built a custom Django backend to manage project galleries and client inquiries, coupled with a responsive frontend.",
+      "Worked in the B2B department, developing custom Shopify solutions using Liquid. Mentored two junior developers, guiding them through development workflows and best practices. Converted Figma designs into Shopify templates, creating reusable templates for B2B clients. Collaborated closely with the SEO team to ensure optimized online experiences, while managing end-to-end custom projects and client requirements.",
     skills: ["Shopify Liquid", "B2B Websites Development", "Server Integration", "Figma to shopify"],
   },
   {
     title: "Senior Developer",
-    company: "Viral Ads",
+    company: "ViralAd",
     date: "2021",
     location: "Karachi Pakistan",
     description:
-      "Developed 'DebugAI', an AI-powered online IDE using the Hugging Face API. Engineered 'FOMO Fruit Detection', a real-time computer vision system running on ESP32-CAM hardware using Edge Impulse.",
+      "Served as a Senior Developer, building custom websites as well as template-based solutions. Managed CMS platforms and handled server maintenance, troubleshooting issues to ensure smooth operations. Delivered end-to-end web solutions while maintaining high performance, reliability, and client satisfaction.",
     skills: ["CMS Custom Websites", "Server Integration", "Client Communication", "Figma to Custom Website"],
   },
 ];
